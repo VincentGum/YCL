@@ -4,5 +4,14 @@
 2. 发信通知
 3. 躲避反爬
 ## 使用方式
-1. 直接运行main.py文件（暂时设置了3次上限，还不方便无限爬取）
+### 运行环境: `python3`
+1. 安装依赖
+```shell
+pip3 install -r requirements.txt
+```
+2. 运行main
+```shell
+python3 main.py
+```
+
 
